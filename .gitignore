@@ -1,0 +1,8 @@
+plugins/
+pawno/
+scriptfiles/
+announce.exe
+samp-server.exe
+samp-npc.exe
+server_log.txt
+*.amx
